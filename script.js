@@ -4,7 +4,7 @@ let modal  = document.querySelector(".modal");
 let highscoreElement =  document.querySelector(".high-score")
 let scoreElement =  document.querySelector(".score")
 let timeElement =  document.querySelector(".session-time")
-// modal.style.display= "none";
+
 
 let savedHighScore = localStorage.getItem("HighScrore") || 0;
 let score = 0;
