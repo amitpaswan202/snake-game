@@ -60,7 +60,7 @@ let renderfood = blocks[`${food.x}-${food.y}`];
 
 if(renderfood){
     renderfood.classList.add("food");
-}
+}////
 
 
 // new game button
