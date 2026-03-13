@@ -42,6 +42,7 @@ for(let row = 0 ;row < rows ;row++){
 
 
 // render snake
+///
 function render(){
 
     snake.forEach((segment) =>{
