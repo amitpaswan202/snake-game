@@ -53,7 +53,7 @@ function render(){
         }
     })
 }
-
+///
 
 // render food
 let renderfood = blocks[`${food.x}-${food.y}`];
